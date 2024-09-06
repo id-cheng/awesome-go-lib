@@ -11,7 +11,7 @@ func main() {
 		"encoding":"json",
 		"outputPaths": ["stdout", "server.log"],
 		"errorOutputPaths": ["stderr"],
-		"initialFields":{"name":"dj"},
+		"initialFields":{"name":"cheng"},
 		"encoderConfig": {
 			"messageKey": "message",
 			"levelKey": "level",
