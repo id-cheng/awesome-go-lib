@@ -5,6 +5,7 @@ go 1.23.0
 require (
 	dario.cat/mergo v1.0.1
 	github.com/ThreeDotsLabs/watermill v1.3.7
+	github.com/expr-lang/expr v1.16.9
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/jinzhu/copier v0.4.0
