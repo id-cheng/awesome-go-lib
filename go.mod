@@ -1,4 +1,4 @@
-module go-lib-example
+module github.com/id-cheng/awesome-go-lib
 
 go 1.23.0
 
