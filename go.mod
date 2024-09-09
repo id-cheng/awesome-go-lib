@@ -20,6 +20,7 @@ require (
 	github.com/spf13/cast v1.7.0
 	github.com/spf13/viper v1.19.0
 	github.com/xuri/excelize/v2 v2.8.1
+	github.com/yuin/gopher-lua v1.1.1
 	go.uber.org/zap v1.27.0
 	gopkg.in/ini.v1 v1.67.0
 )
