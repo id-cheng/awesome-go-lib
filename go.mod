@@ -9,6 +9,7 @@ require (
 	github.com/emirpasic/gods v1.18.1
 	github.com/expr-lang/expr v1.16.9
 	github.com/fsnotify/fsnotify v1.7.0
+	github.com/golang-jwt/jwt/v5 v5.2.1
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/jinzhu/copier v0.4.0
 	github.com/json-iterator/go v1.1.12
