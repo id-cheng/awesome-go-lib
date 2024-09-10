@@ -37,6 +37,6 @@ func main() {
 
 	slice := all.ToSlice()
 	fmt.Println(slice)
-	set := mapset.NewSet[string](slice...)
+	set := mapset.NewSet(slice...)
 	fmt.Println(set)
 }
