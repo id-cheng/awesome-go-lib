@@ -10,6 +10,7 @@ require (
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/jinzhu/copier v0.4.0
 	github.com/json-iterator/go v1.1.12
+	github.com/panjf2000/ants/v2 v2.10.0
 	github.com/reactivex/rxgo/v2 v2.5.0
 	github.com/robertkrimen/otto v0.4.0
 	github.com/robfig/cron/v3 v3.0.1
