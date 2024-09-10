@@ -11,11 +11,34 @@ var container = "ollama"
 var model = "qwen2:0.5b"
 
 func InitModel() {
-	output, err := exec.Command("docker", "exec", container, "ollama", "pull", model).Output()
+	cmd := exec.Command("docker", "exec", container, "ollama", "pull", model)
+	fmt.Println("init........")
+	stdout, err := cmd.StdoutPipe()
 	if err != nil {
 		panic(err)
 	}
-	fmt.Println(string(output))
+	stderr, err := cmd.StderrPipe()
+	if err != nil {
+		panic(err)
+	}
+	if err = cmd.Start(); err != nil {
+		panic(err)
+	}
+	go func() {
+		scanner := bufio.NewScanner(stdout)
+		for scanner.Scan() {
+			fmt.Println(scanner.Text())
+		}
+	}()
+	go func() {
+		scanner := bufio.NewScanner(stderr)
+		for scanner.Scan() {
+			fmt.Fprintln(os.Stderr, scanner.Text())
+		}
+	}()
+	if err := cmd.Wait(); err != nil {
+		panic(err)
+	}
 }
 
 func SendMsg(text string) (string, error) {
