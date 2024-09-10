@@ -5,6 +5,8 @@ go 1.23.0
 require (
 	dario.cat/mergo v1.0.1
 	github.com/ThreeDotsLabs/watermill v1.3.7
+	github.com/deckarep/golang-set/v2 v2.6.0
+	github.com/emirpasic/gods v1.18.1
 	github.com/expr-lang/expr v1.16.9
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/jessevdk/go-flags v1.6.1
@@ -30,7 +32,6 @@ require (
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
-	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/gonum/blas v0.0.0-20181208220705-f22b278b28ac // indirect
 	github.com/gonum/lapack v0.0.0-20181123203213-e4cdc5a0bff9 // indirect
 	github.com/gonum/matrix v0.0.0-20181209220409-c518dec07be9 // indirect
