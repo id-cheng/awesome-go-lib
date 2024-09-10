@@ -10,6 +10,7 @@ require (
 	github.com/expr-lang/expr v1.16.9
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/golang-jwt/jwt/v5 v5.2.1
+	github.com/hashicorp/go-multierror v1.1.1
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/jinzhu/copier v0.4.0
 	github.com/json-iterator/go v1.1.12
@@ -24,6 +25,7 @@ require (
 	github.com/sjwhitworth/golearn v0.0.0-20221228163002-74ae077eafb2
 	github.com/spf13/cast v1.7.0
 	github.com/spf13/viper v1.19.0
+	github.com/tidwall/gjson v1.17.3
 	github.com/xuri/excelize/v2 v2.8.1
 	github.com/yanyiwu/gojieba v1.4.3
 	github.com/yuin/gopher-lua v1.1.1
@@ -42,7 +44,6 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/guptarohit/asciigraph v0.5.1 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
-	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/lithammer/shortuuid/v3 v3.0.7 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
@@ -71,6 +72,8 @@ require (
 	github.com/stretchr/testify v1.9.0 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
 	github.com/teivah/onecontext v1.3.0 // indirect
+	github.com/tidwall/match v1.1.1 // indirect
+	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/xuri/efp v0.0.0-20240408161823-9ad904a10d6d // indirect
 	github.com/xuri/nfp v0.0.0-20240318013403-ab9948c2c4a7 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
