@@ -5,6 +5,7 @@ go 1.23.0
 require (
 	dario.cat/mergo v1.0.1
 	github.com/ThreeDotsLabs/watermill v1.3.7
+	github.com/allegro/bigcache/v3 v3.1.0
 	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/emirpasic/gods v1.18.1
 	github.com/expr-lang/expr v1.16.9
@@ -79,12 +80,12 @@ require (
 	github.com/xuri/nfp v0.0.0-20240318013403-ab9948c2c4a7 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/crypto v0.27.0 // indirect
-	golang.org/x/exp v0.0.0-20240904232852-e7e105dedf7e // indirect
+	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0 // indirect
 	golang.org/x/net v0.29.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
 	golang.org/x/sys v0.25.0 // indirect
 	golang.org/x/text v0.18.0 // indirect
-	gonum.org/v1/gonum v0.8.1 // indirect
+	gonum.org/v1/gonum v0.15.1 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
