@@ -1,0 +1,7 @@
+services:
+  olivia:
+    image: "docker.pkg.github.com/olivia-ai/olivia/olivia:latest"
+    environment:
+      - PORT=8080
+    ports:
+      - "8080:8080"

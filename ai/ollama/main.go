@@ -51,7 +51,6 @@ func SendMsg(text string) (string, error) {
 
 func main() {
 	InitModel()
-	fmt.Println("init model success")
 	reader := bufio.NewReader(os.Stdin)
 	for {
 		input, _ := reader.ReadString('\n')
