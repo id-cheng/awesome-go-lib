@@ -18,6 +18,7 @@ require (
 	github.com/mozillazg/go-pinyin v0.20.0
 	github.com/panjf2000/ants/v2 v2.10.0
 	github.com/reactivex/rxgo/v2 v2.5.0
+	github.com/redis/go-redis/v9 v9.6.1
 	github.com/robertkrimen/otto v0.4.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/roylee0704/gron v0.0.0-20160621042432-e78485adab46
@@ -39,7 +40,9 @@ require (
 require (
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
+	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
+	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/gonum/blas v0.0.0-20181208220705-f22b278b28ac // indirect
 	github.com/gonum/lapack v0.0.0-20181123203213-e4cdc5a0bff9 // indirect
 	github.com/gonum/matrix v0.0.0-20181209220409-c518dec07be9 // indirect
