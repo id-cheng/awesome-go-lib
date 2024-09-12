@@ -1,0 +1,15 @@
+[Hello]
+hash = "sha1-5b49bfdad81fedaeefb224b0ffc2acc58b09cff5"
+other = "你好 {{.Name}}"
+
+[MyUnreadEmails]
+description = "我未读邮件的数量"
+hash = "sha1-6a65d17f53981a3657db1897630e9cb069053ea8"
+one = "我有 {{.PluralCount}} 封未读邮件。"
+other = "我有 {{.PluralCount}} 封未读邮件。"
+
+[PersonUnreadEmails]
+description = "某人未读邮件的数量"
+hash = "sha1-3a672fa89c5c8564bb233c907638004983792464"
+one = "{{.Name}} 有 {{.UnreadEmailCount}} 封未读邮件。"
+other = "{{.Name}} 有 {{.UnreadEmailCount}} 封未读邮件。"

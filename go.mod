@@ -4,6 +4,7 @@ go 1.23.0
 
 require (
 	dario.cat/mergo v1.0.1
+	github.com/BurntSushi/toml v1.4.0
 	github.com/ThreeDotsLabs/watermill v1.3.7
 	github.com/allegro/bigcache/v3 v3.1.0
 	github.com/deckarep/golang-set/v2 v2.6.0
@@ -22,6 +23,7 @@ require (
 	github.com/mingrammer/commonregex v1.0.1
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/mozillazg/go-pinyin v0.20.0
+	github.com/nicksnyder/go-i18n/v2 v2.4.0
 	github.com/panjf2000/ants/v2 v2.10.0
 	github.com/reactivex/rxgo/v2 v2.5.0
 	github.com/redis/go-redis/v9 v9.6.1
@@ -41,6 +43,7 @@ require (
 	github.com/yanyiwu/gojieba v1.4.3
 	github.com/yuin/gopher-lua v1.1.1
 	go.uber.org/zap v1.27.0
+	golang.org/x/text v0.18.0
 	gopkg.in/ini.v1 v1.67.0
 )
 
@@ -115,7 +118,6 @@ require (
 	golang.org/x/oauth2 v0.20.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
 	golang.org/x/sys v0.25.0 // indirect
-	golang.org/x/text v0.18.0 // indirect
 	gonum.org/v1/gonum v0.15.1 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
