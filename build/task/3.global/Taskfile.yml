@@ -1,0 +1,12 @@
+version: '3'
+
+# -g 表示在$HOME寻找TaskFile
+tasks:
+  from-home:
+    cmds:
+      - pwd
+
+  from-working-directory:
+    dir: './dir'
+    cmds:
+      - go run main.go
