@@ -1,0 +1,6 @@
+services:
+  gorse:
+    image: zhenghaoz/gorse-in-one
+    command: --playground
+    ports:
+      - "8088:8088"
