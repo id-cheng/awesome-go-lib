@@ -10,5 +10,6 @@ import (
 func main() {
 	err := errors.New("err")
 	result := multierror.Append(err, errors.ErrUnsupported)
-	fmt.Println(result)
+	fmt.Println(result.Errors)
+	fmt.Println(result.Error())
 }
