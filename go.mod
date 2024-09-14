@@ -13,7 +13,9 @@ require (
 	github.com/ebitengine/oto/v3 v3.2.0
 	github.com/emirpasic/gods v1.18.1
 	github.com/expr-lang/expr v1.16.9
+	github.com/faiface/beep v1.1.0
 	github.com/fsnotify/fsnotify v1.7.0
+	github.com/gdamore/tcell v1.4.0
 	github.com/gin-gonic/gin v1.10.0
 	github.com/go-ego/gse v0.80.3
 	github.com/gofiber/fiber/v3 v3.0.0-beta.3
@@ -83,6 +85,7 @@ require (
 	github.com/fyne-io/image v0.0.0-20220602074514-4956b0afb3d2 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.3 // indirect
 	github.com/gage-technologies/mistral-go v1.1.0 // indirect
+	github.com/gdamore/encoding v1.0.0 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/go-gl/gl v0.0.0-20211210172815-726fda9656d6 // indirect
 	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20240506104042-037f3cc74f2a // indirect
@@ -111,6 +114,7 @@ require (
 	github.com/gorilla/securecookie v1.1.2 // indirect
 	github.com/gorilla/sessions v1.1.1 // indirect
 	github.com/guptarohit/asciigraph v0.7.2 // indirect
+	github.com/hajimehoshi/oto v0.7.1 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/jeandeaual/go-locale v0.0.0-20240223122105-ce5225dcaa49 // indirect
@@ -127,6 +131,7 @@ require (
 	github.com/lestrrat-go/jwx v1.2.30 // indirect
 	github.com/lestrrat-go/option v1.0.1 // indirect
 	github.com/lithammer/shortuuid/v3 v3.0.7 // indirect
+	github.com/lucasb-eyer/go-colorful v1.0.3 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/markbates/going v1.0.3 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
@@ -178,6 +183,7 @@ require (
 	golang.org/x/arch v0.10.0 // indirect
 	golang.org/x/crypto v0.27.0 // indirect
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0 // indirect
+	golang.org/x/exp/shiny v0.0.0-20230817173708-d852ddb80c63 // indirect
 	golang.org/x/image v0.18.0 // indirect
 	golang.org/x/mobile v0.0.0-20231127183840-76ac6878050a // indirect
 	golang.org/x/net v0.29.0 // indirect
