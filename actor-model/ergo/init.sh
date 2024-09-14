@@ -1,3 +1,7 @@
+# An actor-based Framework with network transparency
+# for creating event-driven architecture in Golang.
+# Inspired by Erlang. Zero dependencies.
+
 ergo -init MyNode \
       -with-app MyApp \
       -with-sup MyApp:MySup \
@@ -7,6 +11,3 @@ ergo -init MyNode \
       -with-observer
 
 
-# An actor-based Framework with network transparency
-# for creating event-driven architecture in Golang.
-# Inspired by Erlang. Zero dependencies.
