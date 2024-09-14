@@ -8,6 +8,7 @@ require (
 	github.com/ThreeDotsLabs/watermill v1.3.7
 	github.com/allegro/bigcache/v3 v3.1.0
 	github.com/deckarep/golang-set/v2 v2.6.0
+	github.com/dop251/goja v0.0.0-20240828124009-016eb7256539
 	github.com/emirpasic/gods v1.18.1
 	github.com/expr-lang/expr v1.16.9
 	github.com/fsnotify/fsnotify v1.7.0
@@ -74,6 +75,7 @@ require (
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/go-playground/validator/v10 v10.20.0 // indirect
+	github.com/go-sourcemap/sourcemap v2.1.3+incompatible // indirect
 	github.com/goccy/go-json v0.10.3 // indirect
 	github.com/gofiber/utils/v2 v2.0.0-beta.4 // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
@@ -82,10 +84,11 @@ require (
 	github.com/gonum/lapack v0.0.0-20181123203213-e4cdc5a0bff9 // indirect
 	github.com/gonum/matrix v0.0.0-20181209220409-c518dec07be9 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/google/pprof v0.0.0-20230207041349-798e818bf904 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/gorilla/context v1.1.2 // indirect
 	github.com/gorilla/mux v1.8.1 // indirect
-	github.com/gorilla/securecookie v1.1.1 // indirect
+	github.com/gorilla/securecookie v1.1.2 // indirect
 	github.com/gorilla/sessions v1.1.1 // indirect
 	github.com/guptarohit/asciigraph v0.7.2 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
@@ -152,7 +155,7 @@ require (
 	golang.org/x/oauth2 v0.23.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
 	golang.org/x/sys v0.25.0 // indirect
-	golang.org/x/time v0.5.0 // indirect
+	golang.org/x/time v0.6.0 // indirect
 	gonum.org/v1/gonum v0.15.1 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
