@@ -10,6 +10,7 @@ require (
 	github.com/allegro/bigcache/v3 v3.1.0
 	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/dop251/goja v0.0.0-20240828124009-016eb7256539
+	github.com/ebitengine/oto/v3 v3.2.0
 	github.com/emirpasic/gods v1.18.1
 	github.com/expr-lang/expr v1.16.9
 	github.com/fsnotify/fsnotify v1.7.0
@@ -19,6 +20,7 @@ require (
 	github.com/golang-jwt/jwt/v5 v5.2.1
 	github.com/gorilla/pat v1.0.2
 	github.com/hajimehoshi/ebiten/v2 v2.7.9
+	github.com/hajimehoshi/go-mp3 v0.3.4
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/jinzhu/copier v0.4.0
@@ -39,7 +41,7 @@ require (
 	github.com/roylee0704/gron v0.0.0-20160621042432-e78485adab46
 	github.com/rs/zerolog v1.33.0
 	github.com/samber/mo v1.13.0
-	github.com/shopspring/decimal v1.3.1
+	github.com/shopspring/decimal v1.4.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/sjwhitworth/golearn v0.0.0-20221228163002-74ae077eafb2
 	github.com/sourcegraph/conc v0.3.0
