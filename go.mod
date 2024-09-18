@@ -73,8 +73,8 @@ require (
 	github.com/DataDog/gostackparse v0.7.0 // indirect
 	github.com/andybalholm/brotli v1.1.0 // indirect
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
-	github.com/bits-and-blooms/bitset v1.12.0 // indirect
-	github.com/bytedance/sonic v1.11.6 // indirect
+	github.com/bits-and-blooms/bitset v1.14.3 // indirect
+	github.com/bytedance/sonic v1.12.2 // indirect
 	github.com/bytedance/sonic/loader v0.2.0 // indirect
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
