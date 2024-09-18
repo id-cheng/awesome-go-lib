@@ -25,6 +25,7 @@ require (
 	github.com/gin-gonic/gin v1.10.0
 	github.com/gizak/termui/v3 v3.1.0
 	github.com/go-ego/gse v0.80.3
+	github.com/go-gota/gota v0.12.0
 	github.com/gofiber/fiber/v3 v3.0.0-beta.3
 	github.com/golang-jwt/jwt/v5 v5.2.1
 	github.com/gorilla/pat v1.0.2
