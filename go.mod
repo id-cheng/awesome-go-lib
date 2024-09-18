@@ -10,6 +10,8 @@ require (
 	github.com/ThreeDotsLabs/watermill v1.3.7
 	github.com/allegro/bigcache/v3 v3.1.0
 	github.com/anthdm/hollywood v1.0.2
+	github.com/bits-and-blooms/bitset v1.14.3
+	github.com/bits-and-blooms/bloom/v3 v3.7.0
 	github.com/bluele/gcache v0.0.2
 	github.com/charmbracelet/bubbletea v1.1.1
 	github.com/deckarep/golang-set/v2 v2.6.0
@@ -73,7 +75,6 @@ require (
 	github.com/DataDog/gostackparse v0.7.0 // indirect
 	github.com/andybalholm/brotli v1.1.0 // indirect
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
-	github.com/bits-and-blooms/bitset v1.14.3 // indirect
 	github.com/bytedance/sonic v1.12.2 // indirect
 	github.com/bytedance/sonic/loader v0.2.0 // indirect
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
