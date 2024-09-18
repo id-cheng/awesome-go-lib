@@ -9,6 +9,7 @@ require (
 	github.com/ThreeDotsLabs/watermill v1.3.7
 	github.com/allegro/bigcache/v3 v3.1.0
 	github.com/anthdm/hollywood v1.0.2
+	github.com/bluele/gcache v0.0.2
 	github.com/charmbracelet/bubbletea v1.1.1
 	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/dop251/goja v0.0.0-20240828124009-016eb7256539
