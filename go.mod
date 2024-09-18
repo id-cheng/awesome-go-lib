@@ -6,6 +6,7 @@ require (
 	dario.cat/mergo v1.0.1
 	fyne.io/fyne/v2 v2.5.1
 	github.com/BurntSushi/toml v1.4.0
+	github.com/RoaringBitmap/roaring/v2 v2.3.5
 	github.com/ThreeDotsLabs/watermill v1.3.7
 	github.com/allegro/bigcache/v3 v3.1.0
 	github.com/anthdm/hollywood v1.0.2
@@ -25,7 +26,7 @@ require (
 	github.com/gofiber/fiber/v3 v3.0.0-beta.3
 	github.com/golang-jwt/jwt/v5 v5.2.1
 	github.com/gorilla/pat v1.0.2
-	github.com/hajimehoshi/ebiten/v2 v2.7.9
+	github.com/hajimehoshi/ebiten/v2 v2.7.10
 	github.com/hajimehoshi/go-mp3 v0.3.4
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/jessevdk/go-flags v1.6.1
@@ -72,6 +73,7 @@ require (
 	github.com/DataDog/gostackparse v0.7.0 // indirect
 	github.com/andybalholm/brotli v1.1.0 // indirect
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
+	github.com/bits-and-blooms/bitset v1.12.0 // indirect
 	github.com/bytedance/sonic v1.11.6 // indirect
 	github.com/bytedance/sonic/loader v0.2.0 // indirect
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
@@ -155,10 +157,11 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
 	github.com/mrjones/oauth v0.0.0-20190623134757-126b35219450 // indirect
+	github.com/mschoch/smat v0.2.0 // indirect
 	github.com/muesli/ansi v0.0.0-20230316100256-276c6243b2f6 // indirect
 	github.com/muesli/cancelreader v0.2.2 // indirect
 	github.com/muesli/termenv v0.15.2 // indirect
-	github.com/nsf/termbox-go v0.0.0-20190121233118-02980233997d // indirect
+	github.com/nsf/termbox-go v1.1.1 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.3 // indirect
