@@ -6,6 +6,7 @@ require (
 	dario.cat/mergo v1.0.1
 	fyne.io/fyne/v2 v2.5.1
 	github.com/BurntSushi/toml v1.4.0
+	github.com/Rhymond/go-money v1.0.14
 	github.com/RoaringBitmap/roaring/v2 v2.3.5
 	github.com/ThreeDotsLabs/watermill v1.3.7
 	github.com/allegro/bigcache/v3 v3.1.0
@@ -68,6 +69,7 @@ require (
 	github.com/tealeg/xlsx/v3 v3.0.0
 	github.com/tidwall/gjson v1.17.3
 	github.com/tmc/langchaingo v0.1.12
+	github.com/valyala/fasthttp v1.55.0
 	github.com/xuri/excelize/v2 v2.8.1
 	github.com/yanyiwu/gojieba v1.4.3
 	github.com/yuin/gopher-lua v1.1.1
@@ -229,7 +231,6 @@ require (
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.12 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	github.com/valyala/fasthttp v1.55.0 // indirect
 	github.com/valyala/fasttemplate v1.2.2 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	github.com/vcaesar/cedar v0.20.2 // indirect
