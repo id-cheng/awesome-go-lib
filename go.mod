@@ -9,6 +9,7 @@ require (
 	github.com/Rhymond/go-money v1.0.14
 	github.com/RoaringBitmap/roaring/v2 v2.3.5
 	github.com/ThreeDotsLabs/watermill v1.3.7
+	github.com/ahmetb/go-linq/v3 v3.2.0
 	github.com/allegro/bigcache/v3 v3.1.0
 	github.com/anthdm/hollywood v1.0.2
 	github.com/anthonynsimon/bild v0.14.0
@@ -20,7 +21,7 @@ require (
 	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/disintegration/imaging v1.6.2
 	github.com/dop251/goja v0.0.0-20240919115326-6c7d1df7ff05
-	github.com/ebitengine/oto/v3 v3.2.0
+	github.com/ebitengine/oto/v3 v3.3.0
 	github.com/emirpasic/gods v1.18.1
 	github.com/expr-lang/expr v1.16.9
 	github.com/faiface/beep v1.1.0
@@ -66,12 +67,12 @@ require (
 	github.com/sourcegraph/conc v0.3.0
 	github.com/spf13/cast v1.7.0
 	github.com/spf13/viper v1.19.0
-	github.com/tealeg/xlsx/v3 v3.0.0
+	github.com/tealeg/xlsx/v3 v3.3.10
 	github.com/tidwall/gjson v1.17.3
 	github.com/tmc/langchaingo v0.1.12
 	github.com/valyala/fasthttp v1.55.0
 	github.com/xuri/excelize/v2 v2.8.1
-	github.com/yanyiwu/gojieba v1.4.3
+	github.com/yanyiwu/gojieba v1.4.4
 	github.com/yuin/gopher-lua v1.1.1
 	github.com/zhenghaoz/gorse v0.4.15
 	go.uber.org/zap v1.27.0
@@ -86,9 +87,9 @@ require (
 	github.com/RoaringBitmap/roaring v1.9.4 // indirect
 	github.com/andybalholm/brotli v1.1.0 // indirect
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
-	github.com/blevesearch/bleve_index_api v1.1.10 // indirect
+	github.com/blevesearch/bleve_index_api v1.1.12 // indirect
 	github.com/blevesearch/geo v0.1.20 // indirect
-	github.com/blevesearch/go-faiss v1.0.20 // indirect
+	github.com/blevesearch/go-faiss v1.0.22 // indirect
 	github.com/blevesearch/go-porterstemmer v1.0.3 // indirect
 	github.com/blevesearch/gtreap v0.1.1 // indirect
 	github.com/blevesearch/mmap-go v1.0.4 // indirect
@@ -103,7 +104,7 @@ require (
 	github.com/blevesearch/zapx/v14 v14.3.10 // indirect
 	github.com/blevesearch/zapx/v15 v15.3.13 // indirect
 	github.com/blevesearch/zapx/v16 v16.1.5 // indirect
-	github.com/bytedance/sonic v1.12.2 // indirect
+	github.com/bytedance/sonic v1.12.3 // indirect
 	github.com/bytedance/sonic/loader v0.2.0 // indirect
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
@@ -119,7 +120,7 @@ require (
 	github.com/dlclark/regexp2 v1.11.4 // indirect
 	github.com/ebitengine/gomobile v0.0.0-20240518074828-e86332849895 // indirect
 	github.com/ebitengine/hideconsole v1.0.0 // indirect
-	github.com/ebitengine/purego v0.7.1 // indirect
+	github.com/ebitengine/purego v0.8.0 // indirect
 	github.com/erikgeiser/coninput v0.0.0-20211004153227-1c3628e74d0f // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/frankban/quicktest v1.14.6 // indirect
@@ -127,7 +128,7 @@ require (
 	github.com/fyne-io/gl-js v0.0.0-20230506162202-1fdaa286a934 // indirect
 	github.com/fyne-io/glfw-js v0.0.0-20240101223322-6e1efdc71b7a // indirect
 	github.com/fyne-io/image v0.0.0-20240417123036-dc0ee9e7c964 // indirect
-	github.com/gabriel-vasile/mimetype v1.4.3 // indirect
+	github.com/gabriel-vasile/mimetype v1.4.5 // indirect
 	github.com/gage-technologies/mistral-go v1.1.0 // indirect
 	github.com/gdamore/encoding v1.0.1 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
@@ -170,7 +171,7 @@ require (
 	github.com/jezek/xgb v1.1.1 // indirect
 	github.com/jonboulle/clockwork v0.4.0 // indirect
 	github.com/jsummers/gobmp v0.0.0-20230614200233-a9de23ed2e25 // indirect
-	github.com/klauspost/compress v1.17.9 // indirect
+	github.com/klauspost/compress v1.17.10 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.8 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
@@ -203,7 +204,7 @@ require (
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.3 // indirect
-	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
+	github.com/peterbourgon/diskv/v3 v3.0.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pkoukk/tiktoken-go v0.1.7 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
@@ -212,7 +213,7 @@ require (
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/rocketlaunchr/dataframe-go v0.0.0-20211025052708-a1030444159b // indirect
 	github.com/rogpeppe/fastuuid v1.2.0 // indirect
-	github.com/rogpeppe/go-internal v1.12.0 // indirect
+	github.com/rogpeppe/go-internal v1.13.1 // indirect
 	github.com/rymdport/portal v0.2.6 // indirect
 	github.com/sagikazarmark/locafero v0.6.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
