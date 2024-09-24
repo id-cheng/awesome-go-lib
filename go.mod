@@ -18,6 +18,7 @@ require (
 	github.com/blevesearch/bleve/v2 v2.4.2
 	github.com/bluele/gcache v0.0.2
 	github.com/charmbracelet/bubbletea v1.1.1
+	github.com/dave/jennifer v1.7.1
 	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/disintegration/imaging v1.6.2
 	github.com/dop251/goja v0.0.0-20240919115326-6c7d1df7ff05
