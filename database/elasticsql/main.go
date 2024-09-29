@@ -17,5 +17,5 @@ var sql = `select * from project
 func main() {
 	dsl, table, _ := elasticsql.Convert(sql)
 	fmt.Println("dsl:", dsl)
-	fmt.Println("esType:", table)
+	fmt.Println("table:", table)
 }
