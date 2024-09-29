@@ -81,6 +81,8 @@ github.com/RoaringBitmap/roaring/v2 v2.3.5 h1:aG2AxDgEc2gtLZACft3PmvpEi98thqyNGk
 github.com/RoaringBitmap/roaring/v2 v2.3.5/go.mod h1:qhgqItwt5rQY0Nj4zw9nMhXv4Pkq2D8dA8RPJAfyU08=
 github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06 h1:KkH3I3sJuOLP3TjA/dfr4NAY8bghDwnXiU7cTKxQqo0=
 github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06/go.mod h1:7erjKLwalezA0k99cWs5L11HWOAPNjdUZ6RxH1BXbbM=
+github.com/Shopify/goreferrer v0.0.0-20240724165105-aceaa0259138 h1:gjbp60h8IZQbN/TpDaYJedWbbD1h1aDPEwWnYWaDaUY=
+github.com/Shopify/goreferrer v0.0.0-20240724165105-aceaa0259138/go.mod h1:NYezi6wtnJtBm5btoprXc5SvAdqH0XTXWnUup0MptAI=
 github.com/ThreeDotsLabs/watermill v1.3.7 h1:NV0PSTmuACVEOV4dMxRnmGXrmbz8U83LENOvpHekN7o=
 github.com/ThreeDotsLabs/watermill v1.3.7/go.mod h1:lBnrLbxOjeMRgcJbv+UiZr8Ylz8RkJ4m6i/VN/Nk+to=
 github.com/TylerBrock/colorjson v0.0.0-20200706003622-8a50f05110d2 h1:ZBbLwSJqkHBuFDA6DUhhse0IGJ7T5bemHyNILUjvOq4=
@@ -169,6 +171,8 @@ github.com/bytedance/sonic v1.12.3/go.mod h1:B8Gt/XvtZ3Fqj+iSKMypzymZxw/FVwgIGKz
 github.com/bytedance/sonic/loader v0.1.1/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=
 github.com/bytedance/sonic/loader v0.2.0 h1:zNprn+lsIP06C/IqCHs3gPQIvnvpKbbxyXQP1iU4kWM=
 github.com/bytedance/sonic/loader v0.2.0/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=
+github.com/cch123/elasticsql v1.0.1 h1:B/c40hmj/TxqjLrpry565J+poi0S2b2NjGOUWmyI+2Q=
+github.com/cch123/elasticsql v1.0.1/go.mod h1:x1Ew690FkNjGn9Fm0asmEqZcteTgx+q3CSwlci8SteQ=
 github.com/cenkalti/backoff v2.2.1+incompatible/go.mod h1:90ReRw6GdpyfrHakVjL/QHaoyV4aDUVVkXQJJJ3NXXM=
 github.com/cenkalti/backoff/v3 v3.2.2 h1:cfUAAO3yvKMYKPrvhDuHSwQnhZNk/RMHKdZqKTxfm6M=
 github.com/cenkalti/backoff/v3 v3.2.2/go.mod h1:cIeZDE3IrqwwJl6VUwCN6trj1oXrTS4rc0ij+ULvLYs=
@@ -1006,6 +1010,8 @@ github.com/xuri/excelize/v2 v2.8.1 h1:pZLMEwK8ep+CLIUWpWmvW8IWE/yxqG0I1xcN6cVMGu
 github.com/xuri/excelize/v2 v2.8.1/go.mod h1:oli1E4C3Pa5RXg1TBXn4ENCXDV5JUMlBluUhG7c+CEE=
 github.com/xuri/nfp v0.0.0-20240318013403-ab9948c2c4a7 h1:hPVCafDV85blFTabnqKgNhDCkJX25eik94Si9cTER4A=
 github.com/xuri/nfp v0.0.0-20240318013403-ab9948c2c4a7/go.mod h1:WwHg+CVyzlv/TX9xqBFXEZAuxOPxn2k1GNHwG41IIUQ=
+github.com/xwb1989/sqlparser v0.0.0-20171128062118-da747e0c62c4 h1:w96oitIHwAbUymu2zUSla/82gOKNzpJYkFdwCHE/UOA=
+github.com/xwb1989/sqlparser v0.0.0-20171128062118-da747e0c62c4/go.mod h1:hzfGeIUDq/j97IG+FhNqkowIyEcD88LrW6fyU3K3WqY=
 github.com/yalp/jsonpath v0.0.0-20180802001716-5cc68e5049a0 h1:6fRhSjgLCkTD3JnJxvaJ4Sj+TYblw757bqYgZaOq5ZY=
 github.com/yalp/jsonpath v0.0.0-20180802001716-5cc68e5049a0/go.mod h1:/LWChgwKmvncFJFHJ7Gvn9wZArjbV5/FppcK2fKk/tI=
 github.com/yanyiwu/gojieba v1.4.4 h1:Iukkf8WlIfqAKtsGZjUhGR1ArKa7DtLDNmW8bvUI8JI=
