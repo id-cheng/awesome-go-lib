@@ -24,7 +24,7 @@ require (
 	github.com/didip/tollbooth/v7 v7.0.2
 	github.com/didip/tollbooth_gin v0.0.0-20170928041415-5752492be505
 	github.com/disintegration/imaging v1.6.2
-	github.com/dop251/goja v0.0.0-20240919115326-6c7d1df7ff05
+	github.com/dop251/goja v0.0.0-20240927123429-241b342198c2
 	github.com/ebitengine/oto/v3 v3.3.0
 	github.com/emirpasic/gods v1.18.1
 	github.com/expr-lang/expr v1.16.9
