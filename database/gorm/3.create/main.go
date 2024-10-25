@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/id-cheng/awesome-go-lib/database/gorm/model"
+	"github.com/id-cheng/awesome-go-lib/database/gorm/2.model"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
