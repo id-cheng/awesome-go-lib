@@ -197,6 +197,7 @@ require (
 	github.com/google/btree v1.1.3 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/pprof v0.0.0-20240929191954-255acd752d31 // indirect
+	github.com/google/subcommands v1.2.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/google/wire v0.6.0 // indirect
 	github.com/gopherjs/gopherjs v1.19.0-beta1 // indirect
@@ -346,11 +347,13 @@ require (
 	golang.org/x/exp/shiny v0.0.0-20240909161429-701f63a606c0 // indirect
 	golang.org/x/image v0.20.0 // indirect
 	golang.org/x/mobile v0.0.0-20240909163608-642950227fb3 // indirect
+	golang.org/x/mod v0.21.0 // indirect
 	golang.org/x/net v0.29.0 // indirect
 	golang.org/x/oauth2 v0.23.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
 	golang.org/x/sys v0.25.0 // indirect
 	golang.org/x/time v0.6.0 // indirect
+	golang.org/x/tools v0.25.0 // indirect
 	gonum.org/v1/gonum v0.15.1 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
